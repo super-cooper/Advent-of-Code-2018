@@ -7,3 +7,4 @@ calendar.
 * __December 3<sup>rd</sup>__: [No Matter How You Slice It](December03)
 * __December 4<sup>th</sup>__: [Repose Record](December04)
 * __December 5<sup>th</sup>__: [Alchemical Reduction](December05)
+* __December 6<sup>th</sup>__: [Chronal Coordinates](December06)
