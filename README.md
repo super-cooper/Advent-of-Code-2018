@@ -8,3 +8,4 @@ calendar.
 * __December 4<sup>th</sup>__: [Repose Record](December04)
 * __December 5<sup>th</sup>__: [Alchemical Reduction](December05)
 * __December 6<sup>th</sup>__: [Chronal Coordinates](December06)
+* __December 7<sup>th</sup>__: [The Sum of Its Parts](December07)
