@@ -9,3 +9,4 @@ calendar.
 * __December 5<sup>th</sup>__: [Alchemical Reduction](December05)
 * __December 6<sup>th</sup>__: [Chronal Coordinates](December06)
 * __December 7<sup>th</sup>__: [The Sum of Its Parts](December07)
+* __December 8<sup>th</sup>__: [Memory Maneuver](December08)
