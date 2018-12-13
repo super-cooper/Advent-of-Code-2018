@@ -11,3 +11,4 @@ calendar.
 * __December 7<sup>th</sup>__: [The Sum of Its Parts](December07)
 * __December 8<sup>th</sup>__: [Memory Maneuver](December08)
 * __December 9<sup>th</sup>__: [Marble Mania](December09)
+* __December 10<sup>th</sup>__ [The Stars Align](December10)
