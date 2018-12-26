@@ -15,3 +15,4 @@ calendar.
 * __December 11<sup>th</sup>__: [Chronal Charge](December11)
 * __December 12<sup>th</sup>__: [Subterranean Sustainability](December12)
 * __December 13<sup>th</sup>__: [Mine Cart Madness](December13)
+* __December 14<sup>th</sup>__: [Chocolate Charts](December14)
