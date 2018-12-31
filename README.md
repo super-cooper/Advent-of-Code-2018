@@ -17,3 +17,4 @@ calendar.
 * __December 13<sup>th</sup>__: [Mine Cart Madness](December13)
 * __December 14<sup>th</sup>__: [Chocolate Charts](December14)
 * __December 15<sup>th</sup>__: [Beverage Bandits](December15)
+* __December 16<sup>th</sup>__: [Chronal Classification](December16)
