@@ -18,3 +18,4 @@ calendar.
 * __December 14<sup>th</sup>__: [Chocolate Charts](December14)
 * __December 15<sup>th</sup>__: [Beverage Bandits](December15)
 * __December 16<sup>th</sup>__: [Chronal Classification](December16)
+* __December 17<sup>th</sup>__: [Reservoir Research](December17)
